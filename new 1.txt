@@ -1,0 +1,6 @@
+<html>
+<body>
+<p text-align: left > this text is left align </p>
+<p text-align: right> this text is right align </p>
+</body>
+</html>
